@@ -1,0 +1,1 @@
+[{"image": "Data49.jpeg", "verified": false, "annotations": [{"label": "pizza", "coordinates": {"x": 1010.0, "y": 581.0, "width": 582.0, "height": 612.0}}, {"label": "makarna", "coordinates": {"x": 978.0, "y": 1163.0, "width": 542.0, "height": 536.0}}, {"label": "muz", "coordinates": {"x": 455.0, "y": 635.0, "width": 372.0, "height": 528.0}}]}]
