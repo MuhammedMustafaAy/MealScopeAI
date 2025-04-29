@@ -37,8 +37,8 @@
 
 ### 🔍 Menu Detection & Categorization
 
-<img src="https://github.com/user-attachments/assets/2872ab39-73a9-4eef-9ee1-51fa0a798b8f" width="600"/>
-<img src="https://github.com/user-attachments/assets/51a55b41-6c8a-48df-9833-5ba7dde3625d" width="600"/>
+<img src="https://github.com/user-attachments/assets/2872ab39-73a9-4eef-9ee1-51fa0a798b8f" width="400"/>
+<img src="https://github.com/user-attachments/assets/51a55b41-6c8a-48df-9833-5ba7dde3625d" width="400"/>
 
 ### 🖼️ Plate Recognition Output
 
@@ -66,8 +66,6 @@
 ## 📬 Contact
 
 For collaboration, feedback, or questions:  
-Muhammed Mustafa AY
+**Muhammed Mustafa AY**
 
 ---
-
-
